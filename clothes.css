@@ -1,0 +1,141 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.catalogs{
+    padding: 0,35px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 27%;
+}
+.catalogs ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+
+.make{
+    background-image: url(images/dr1.jpeg);
+    background-repeat: no-repeat;
+
+}
+#week{
+    text-align: center;
+}
+.top{
+    display: flex;
+    margin-left: 40%;
+    font-size: 30px;
+    margin-top: 4%;
+}
+#ops{
+    margin-left: 50px;
+}
+.dress{
+    display: flex;
+    margin-top: 5%;
+    margin-left: -10%;
+}
+.l1{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.l2{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.l3{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.l4{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#all{
+    margin-left: 45%;
+    margin-top: 90px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: palevioletred;
+}
+.sports{
+    display: flex;
+}
+#sp{
+    height: 500px;
+    margin-left: 20%;
+}
+#hh{
+    margin-top: 70px;
+    margin-left: 30%;
+    width: 50%;
+  
+}
+#fuse{
+    margin-left: 30%;
+}
+.welcome{
+    text-align: center;
+    margin-top: 10%;
+}
+#to{
+    font-weight: bold;
+}
+#we{
+    font-size: 20px;
+}
+.end{
+    background-image:url(images/woman.jpeg);
+    background-repeat: no-repeat;
+}
+.foot{
+    display: flex;
+    margin-top: 2%;
+    background-color:antiquewhite;
+}
+.hop{
+    margin-left: 6%;
+}
+.abt{
+    margin-left: 6%;
+}
+.letter{
+    margin-left: 6%;
+}
+#sub{
+    margin-top: 30px;
+    width: 60%;
+    height: 40px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+#email{
+    margin-top: 20px;
+    width: 70%;
+    height: 40px;
+    border-radius: 8px;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+.payment{
+    display: flex;
+    gap: 10px;
+    margin-left: 17%;
+    margin-top: 15px;
+}
+.shop{
+    margin-left: 6%;
+}
+#image1{
+    width: 100%;
+}
+#image9{
+    width: 100%;
+}
